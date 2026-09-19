@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/roadvision.db
+data/videos/*
+data/evidence/*
+!data/videos/.gitkeep
+!data/evidence/.gitkeep
+node_modules/
+dist/
+.vscode/
